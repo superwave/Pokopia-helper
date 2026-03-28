@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokopia 棲息地攻略</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🏕️ Pokopia 棲息地攻略</h1>
+  <p class="subtitle">資料來源：<a href="https://pinogamer.com/20488" target="_blank" rel="noopener">PinoGamer</a></p>
+</header>
+
+<main>
+  <div class="toolbar">
+    <input type="search" id="search-input" placeholder="搜尋棲息地、寶可夢、材料…" autocomplete="off">
+    <div class="filter-group">
+      <label><input type="checkbox" id="hide-done"> 隱藏已完成</label>
+      <button id="clear-all" title="清除所有勾選">重置 Checklist</button>
+    </div>
+    <div id="result-count" class="result-count"></div>
+  </div>
+
+  <div id="grid" class="grid"></div>
+  <p id="empty-msg" class="empty-msg" hidden>找不到符合的棲息地。</p>
+</main>
+
+<footer>
+  <p>資料整理自 <a href="https://pinogamer.com/20488" target="_blank" rel="noopener">PinoGamer 皮諾電玩</a>，僅供個人攻略參考。</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

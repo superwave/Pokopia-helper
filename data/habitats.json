@@ -1,0 +1,6090 @@
+[
+  {
+    "id": "001",
+    "name": "綠色的地毯",
+    "image": "images/habitats/001.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/2baaaf5da761d2be92d03301489b6a32.jpeg",
+    "materials": [
+      {
+        "name": "悠然的花",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毽子草",
+        "rarity": 1
+      },
+      {
+        "name": "毽子花",
+        "rarity": 2
+      },
+      {
+        "name": "毽子棉",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "遠足必備",
+    "image": "images/habitats/002.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3877b473701672abde5521afad039bde.jpeg",
+    "materials": [
+      {
+        "name": "便當",
+        "count": 1
+      },
+      {
+        "name": "毽子草水壺",
+        "count": 1
+      },
+      {
+        "name": "花朵背包",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毽子花",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "蒲公英相伴的午餐",
+    "image": "images/habitats/003.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/72182198210c9ee8b28785f75a67fdda.jpeg",
+    "materials": [
+      {
+        "name": "悠然的花",
+        "count": 1
+      },
+      {
+        "name": "便當",
+        "count": 1
+      },
+      {
+        "name": "花朵餐具套組",
+        "count": 1
+      },
+      {
+        "name": "花朵靠枕",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毽子棉",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "name": "綠色的草叢",
+    "image": "images/habitats/004.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a0e7f8e34b99835a5a059b8a3b88d1ac.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "妙蛙種子",
+        "rarity": 1
+      },
+      {
+        "name": "傑尼龜",
+        "rarity": 1
+      },
+      {
+        "name": "小拳石",
+        "rarity": 1
+      },
+      {
+        "name": "小火龍",
+        "rarity": 1
+      },
+      {
+        "name": "走路草",
+        "rarity": 1
+      },
+      {
+        "name": "噴火龍",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "name": "樹蔭的草叢",
+    "image": "images/habitats/005.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a67bc96c4452f3986f4b49f38b40c430.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      },
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "飛天螳螂",
+        "rarity": 1
+      },
+      {
+        "name": "巨鉗螳螂",
+        "rarity": 1
+      },
+      {
+        "name": "喇叭芽",
+        "rarity": 1
+      },
+      {
+        "name": "貪吃栗鼠",
+        "rarity": 1
+      },
+      {
+        "name": "凱羅斯",
+        "rarity": 2
+      },
+      {
+        "name": "赫拉克羅斯",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "name": "岩影的草地",
+    "image": "images/habitats/006.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3aced514c419812420fedf8eeb039eeb.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      },
+      {
+        "name": "大石頭",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "搬運小匠",
+        "rarity": 1
+      },
+      {
+        "name": "腕力",
+        "rarity": 1
+      },
+      {
+        "name": "鐵骨土人",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "name": "濕潤的草地",
+    "image": "images/habitats/007.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/185c571baf5a09141c8c570e804fcc25.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "傑尼龜",
+        "rarity": 1
+      },
+      {
+        "name": "黏美兒",
+        "rarity": 1
+      },
+      {
+        "name": "古月鳥",
+        "rarity": 1
+      },
+      {
+        "name": "卡咪龜",
+        "rarity": 2
+      },
+      {
+        "name": "水箭龜",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "name": "海浪邊的草叢",
+    "image": "images/habitats/008.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bc93e743515be51b7772b87cdb4273a7.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      },
+      {
+        "name": "海水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "呆呆獸",
+        "rarity": 1
+      },
+      {
+        "name": "呆殼獸",
+        "rarity": 3
+      },
+      {
+        "name": "呆呆王",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "name": "高崗的草叢",
+    "image": "images/habitats/009.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/cd79a356c8ef267a49069e8c657b6b64.jpeg",
+    "materials": [
+      {
+        "name": "綠草",
+        "count": 4
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "波波",
+        "rarity": 1
+      },
+      {
+        "name": "咕咕",
+        "rarity": 1
+      },
+      {
+        "name": "比比鳥",
+        "rarity": 2
+      },
+      {
+        "name": "貓頭夜鷹",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "name": "光照的草叢&nbsp;",
+    "image": "images/habitats/010.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/8fd832dafcebe0cc257f195923ee21eb.jpeg",
+    "materials": [
+      {
+        "name": "草（全部）",
+        "count": 4
+      },
+      {
+        "name": "光源（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毛球",
+        "rarity": 1
+      },
+      {
+        "name": "摩魯蛾",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "name": "漂亮的花田",
+    "image": "images/habitats/011.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b5271103f0f36e71fd577f572dd994ba.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "波波",
+        "rarity": 1
+      },
+      {
+        "name": "三蜜蜂",
+        "rarity": 1
+      },
+      {
+        "name": "伊布",
+        "rarity": 1
+      },
+      {
+        "name": "咕咕",
+        "rarity": 1
+      },
+      {
+        "name": "鴨嘴寶寶",
+        "rarity": 1
+      },
+      {
+        "name": "比比鳥",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "name": "樹蔭的花田",
+    "image": "images/habitats/012.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/424320496d834156a1cc76698d1ecceb.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "樹果樹（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "黏黏寶",
+        "rarity": 1
+      },
+      {
+        "name": "夢歌仙人掌",
+        "rarity": 2
+      },
+      {
+        "name": "鍬農炮蟲",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "name": "濕潤的花田",
+    "image": "images/habitats/013.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7c6db0699183ebb789fed9e1b0507714.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "電螢蟲",
+        "rarity": 2
+      },
+      {
+        "name": "甜甜蜜",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "name": "整片的花海",
+    "image": "images/habitats/014.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c42e59e5789525d319af6a77577de13b.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 8
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蜂女王",
+        "rarity": 1
+      },
+      {
+        "name": "妙蛙草",
+        "rarity": 2
+      },
+      {
+        "name": "妙蛙花",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "name": "高崗的花海",
+    "image": "images/habitats/015.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f53596aade36c3bc7f4250d0de2e9d64.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "派拉斯",
+        "rarity": 1
+      },
+      {
+        "name": "派拉斯特",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "name": "花朵纏繞的墓地",
+    "image": "images/habitats/016.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a3c8d66161e0a919ad4c7a9781641ff2.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "墓碑",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "卡拉卡拉",
+        "rarity": 1
+      },
+      {
+        "name": "嘎啦嘎啦",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "name": "花園",
+    "image": "images/habitats/017.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bc15df6d06a0a9d8a6a8ad4bb4bd1d02.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "花籬（全部）",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "派拉斯",
+        "rarity": 1
+      },
+      {
+        "name": "派拉斯特",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "name": "新鮮蔬菜田",
+    "image": "images/habitats/018.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4953a5e08f03d82d15fcfe1e6b46b62e.jpeg",
+    "materials": [
+      {
+        "name": "蔬菜田（全部）",
+        "count": 8
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "螺釘地鼠",
+        "rarity": 1
+      },
+      {
+        "name": "木木梟",
+        "rarity": 1
+      },
+      {
+        "name": "龍頭地鼠",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "name": "乘上暖風",
+    "image": "images/habitats/019.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/62bbece9871c83a39bc8ada2b981ce31.jpeg",
+    "materials": [
+      {
+        "name": "火堆",
+        "count": 3
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "飄飄球",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "name": "露營組合",
+    "image": "images/habitats/020.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b001277c9a661a8c8639c4f0687d67b3.jpeg",
+    "materials": [
+      {
+        "name": "乾草桌子",
+        "count": 1
+      },
+      {
+        "name": "乾草凳子",
+        "count": 1
+      },
+      {
+        "name": "火堆",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火恐龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "name": "修行瀑布",
+    "image": "images/habitats/021.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e4aa845cbe61920fbf14918d2359e673.jpeg",
+    "materials": [
+      {
+        "name": "水",
+        "count": 2
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "瀑布",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "無畏小子",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "name": "餓肚肚用餐區",
+    "image": "images/habitats/022.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3ff89ba94cc67477a95c1b8dd7518939.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "溶食獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "name": "野餐風餐桌",
+    "image": "images/habitats/023.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c1f04cf6a7340cbbf6ac02bc9e781675.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "野餐籃",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "皮丘",
+        "rarity": 1
+      },
+      {
+        "name": "皮卡丘",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "name": "華麗的桌子",
+    "image": "images/habitats/024.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f0832f1ba4654e4d9b57eff35efc7964.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "單枝花花瓶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "口呆花",
+        "rarity": 2
+      },
+      {
+        "name": "大食花",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "name": "綠色的長椅",
+    "image": "images/habitats/025.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1a56e0580923465bb34f2ba70b100ad5.jpeg",
+    "materials": [
+      {
+        "name": "花籬（全部）",
+        "count": 2
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "妙蛙種子",
+        "rarity": 1
+      },
+      {
+        "name": "妙蛙草",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "name": "光照的長椅",
+    "image": "images/habitats/026.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c277b2b48c2316811669b5fd4fbe8bd0.jpeg",
+    "materials": [
+      {
+        "name": "路燈（全部）",
+        "count": 4
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毛球",
+        "rarity": 1
+      },
+      {
+        "name": "摩魯蛾",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "name": "健身區用餐區",
+    "image": "images/habitats/027.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bac299de264a842898fca111255916be.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "沙袋",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "快拳郎",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "name": "緊急救護站",
+    "image": "images/habitats/028.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/052f6b1688d0a3451f56297a2d25f5d4.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "急救箱",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "飛腿郎",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "name": "健身區救護站",
+    "image": "images/habitats/029.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/58040ab670b4ee2bce35d35c307b0572.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "沙袋",
+        "count": 1
+      },
+      {
+        "name": "急救箱",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "戰舞郎",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "name": "指路牌",
+    "image": "images/habitats/030.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/8a454ad24345f01354f15e752a462460.jpeg",
+    "materials": [
+      {
+        "name": "木頭小徑",
+        "count": 3
+      },
+      {
+        "name": "箭頭指示牌",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "無殼海兔-東海",
+        "rarity": 2
+      },
+      {
+        "name": "無殼海兔-西海",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "name": "載上大行李",
+    "image": "images/habitats/031.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e1e18caf4583fca7f41196618ab9e138.jpeg",
+    "materials": [
+      {
+        "name": "木箱",
+        "count": 2
+      },
+      {
+        "name": "板車",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鐵骨土人",
+        "rarity": 1
+      },
+      {
+        "name": "小鍛匠",
+        "rarity": 1
+      },
+      {
+        "name": "巧鍛匠",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "name": "樵夫的工作區",
+    "image": "images/habitats/032.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/de854399266e3a9ca3b16a2fe06079ca.jpeg",
+    "materials": [
+      {
+        "name": "圓木桌子",
+        "count": 1
+      },
+      {
+        "name": "圓木椅子",
+        "count": 1
+      },
+      {
+        "name": "板車",
+        "count": 1
+      },
+      {
+        "name": "樹樁（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "牙牙",
+        "rarity": 1
+      },
+      {
+        "name": "斧牙龍",
+        "rarity": 1
+      },
+      {
+        "name": "雙斧戰龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "name": "布偶伴好眠",
+    "image": "images/habitats/033.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a410e29592de5c364ab67c99cecfd306.jpeg",
+    "materials": [
+      {
+        "name": "床鋪（全部）",
+        "count": 1
+      },
+      {
+        "name": "布偶（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "飄飄球",
+        "rarity": 1
+      },
+      {
+        "name": "呆殼獸",
+        "rarity": 2
+      },
+      {
+        "name": "呆呆王",
+        "rarity": 2
+      },
+      {
+        "name": "小卡比獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "name": "柔光伴好眠",
+    "image": "images/habitats/034.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1780cad863fb4ffb3a497b7c19fbb4ed.jpeg",
+    "materials": [
+      {
+        "name": "床鋪（全部）",
+        "count": 1
+      },
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "細長蠟燭",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "咕咕",
+        "rarity": 1
+      },
+      {
+        "name": "貓頭夜鷹",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "name": "墓前的供品",
+    "image": "images/habitats/035.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bbf7b9bab4219271c2ddb1b60cfc0fc5.jpeg",
+    "materials": [
+      {
+        "name": "細長蠟燭",
+        "count": 2
+      },
+      {
+        "name": "墓碑",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "燭光靈",
+        "rarity": 1
+      },
+      {
+        "name": "燈火幽靈",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "name": "詭異墓前的供品",
+    "image": "images/habitats/036.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6a0e2ea212047d5d0f40ea36c93d1a0f.jpeg",
+    "materials": [
+      {
+        "name": "詭異的蠟燭",
+        "count": 2
+      },
+      {
+        "name": "墓碑",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "燭光靈",
+        "rarity": 1
+      },
+      {
+        "name": "燈火幽靈",
+        "rarity": 1
+      },
+      {
+        "name": "水晶燈火靈",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "name": "吉利蛋休息處",
+    "image": "images/habitats/037.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9f9d0f4feeefa6a60853011cb81c2e0c.jpeg",
+    "materials": [
+      {
+        "name": "花籬（全部）",
+        "count": 6
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      },
+      {
+        "name": "吉利蛋盆栽",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "霸王花",
+        "rarity": 2
+      },
+      {
+        "name": "美麗花",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "name": "光與香氣的勾引",
+    "image": "images/habitats/038.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bea2267fc042d70c0cf3ab2d94a02da0.jpeg",
+    "materials": [
+      {
+        "name": "蘑菇燈",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "壺型花瓶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "口呆花",
+        "rarity": 1
+      },
+      {
+        "name": "大食花",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "name": "&nbsp;在陰涼處漂浮玩水",
+    "image": "images/habitats/039.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/08900cb3ac5e3a548decba40884be7c4.jpeg",
+    "materials": [
+      {
+        "name": "水",
+        "count": 2
+      },
+      {
+        "name": "沙灘遮陽傘",
+        "count": 1
+      },
+      {
+        "name": "充氣船",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "水箭龜",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "name": "乾爽草叢",
+    "image": "images/habitats/040.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3309e07792498aca74526d0236f976a7.jpeg",
+    "materials": [
+      {
+        "name": "枯萎的綠草",
+        "count": 4
+      },
+      {
+        "name": "沙沙岩石",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "大岩蛇",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "name": "工廠倉庫",
+    "image": "images/habitats/041.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ce6d4e7c45ea8f6197648b7e40760c34.jpeg",
+    "materials": [
+      {
+        "name": "鐵桶",
+        "count": 1
+      },
+      {
+        "name": "路燈（全部）",
+        "count": 1
+      },
+      {
+        "name": "纏繞的電線",
+        "count": 1
+      },
+      {
+        "name": "操作面板",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "小磁怪",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "name": "豪華小雞飼料",
+    "image": "images/habitats/042.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/cc562b21752b3030074990ececb48574.jpeg",
+    "materials": [
+      {
+        "name": "樹果野餐籃",
+        "count": 1
+      },
+      {
+        "name": "木頭巢箱",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "大比鳥",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "name": "樹果露營大餐",
+    "image": "images/habitats/043.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/01ce2f9af43956d1657b07913a38d6d6.jpeg",
+    "materials": [
+      {
+        "name": "營火",
+        "count": 1
+      },
+      {
+        "name": "樹果野餐籃",
+        "count": 1
+      },
+      {
+        "name": "晴雨漂浮泡泡（晴）",
+        "count": 2
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "噴火龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "044",
+    "name": "求雨地點",
+    "image": "images/habitats/044.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e2a56eb8c3ac42439f810b7f4942ab23.jpeg",
+    "materials": [
+      {
+        "name": "晴雨漂浮泡泡（雨）",
+        "count": 2
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "黏黏寶",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "name": "大晴天地點",
+    "image": "images/habitats/045.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d9966c8ff6799b0580ecad7608599638.jpeg",
+    "materials": [
+      {
+        "name": "晴雨漂浮泡泡（晴）",
+        "count": 2
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "刺球仙人掌",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "name": "博士的寶物",
+    "image": "images/habitats/046.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f614cc1ee41fb3164bcaa5ed9c5add49.jpeg",
+    "materials": [
+      {
+        "name": "遺失物（大型）",
+        "count": 1
+      },
+      {
+        "name": "床鋪（全部）",
+        "count": 1
+      },
+      {
+        "name": "博士的寶物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "巨蔓藤博士",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "name": "圓木的溫馨感",
+    "image": "images/habitats/047.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ea995f184199a83e9da8c3ac22e4d76f.jpeg",
+    "materials": [
+      {
+        "name": "圓木床鋪",
+        "count": 1
+      },
+      {
+        "name": "圓木桌子",
+        "count": 1
+      },
+      {
+        "name": "圓木椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "牙牙",
+        "rarity": 1
+      },
+      {
+        "name": "斧牙龍",
+        "rarity": 2
+      },
+      {
+        "name": "雙斧戰龍",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "name": "樹果大集合",
+    "image": "images/habitats/048.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d45139f8fb1cbced06512c2d8792320d.jpeg",
+    "materials": [
+      {
+        "name": "樹果桌子",
+        "count": 1
+      },
+      {
+        "name": "樹果桌燈",
+        "count": 1
+      },
+      {
+        "name": "樹果床鋪",
+        "count": 1
+      },
+      {
+        "name": "樹果椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "黏美龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "name": "庭園陽台",
+    "image": "images/habitats/049.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3ea2e67f2cd9261c2bfec4403331eeec.jpeg",
+    "materials": [
+      {
+        "name": "草地的花",
+        "count": 4
+      },
+      {
+        "name": "庭園桌子",
+        "count": 1
+      },
+      {
+        "name": "庭園椅子",
+        "count": 1
+      },
+      {
+        "name": "庭園燈",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "妙蛙花",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "name": "&nbsp;樹蔭下熟睡的卡比獸",
+    "image": "images/habitats/050.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7dbdf3bc2f1fff711480c82753ddcf96.jpeg",
+    "materials": [
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      },
+      {
+        "name": "打盹床鋪",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "小卡比獸",
+        "rarity": 1
+      },
+      {
+        "name": "卡比獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "051",
+    "name": "懷舊古董",
+    "image": "images/habitats/051.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f65c67f8a949e1c60d961c5c90710512.jpeg",
+    "materials": [
+      {
+        "name": "古董衣櫃",
+        "count": 1
+      },
+      {
+        "name": "古董床鋪",
+        "count": 1
+      },
+      {
+        "name": "古董梳妝台",
+        "count": 1
+      },
+      {
+        "name": "古董椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "雙彈瓦斯",
+        "rarity": 1
+      },
+      {
+        "name": "卡比獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "name": "滿滿是寶可夢球",
+    "image": "images/habitats/052.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d51d05d5c622d479d8fd02af1bfda4a4.jpeg",
+    "materials": [
+      {
+        "name": "寶可夢球桌燈",
+        "count": 1
+      },
+      {
+        "name": "寶可夢球床鋪",
+        "count": 1
+      },
+      {
+        "name": "寶可夢球桌子",
+        "count": 1
+      },
+      {
+        "name": "寶可夢球沙發",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蔓藤怪",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "name": "黃色的草叢",
+    "image": "images/habitats/053.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/88c7adea4d7fd7080da16cba4364e554.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "圓絲蛛",
+        "rarity": 1
+      },
+      {
+        "name": "強顎雞母蟲",
+        "rarity": 1
+      },
+      {
+        "name": "阿利多斯",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "name": "樹蔭的黃色草叢",
+    "image": "images/habitats/054.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3e5029a183c6655e0f54bedb75555975.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      },
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "超音蝠",
+        "rarity": 1
+      },
+      {
+        "name": "幕下力士",
+        "rarity": 1
+      },
+      {
+        "name": "大嘴蝠",
+        "rarity": 2
+      },
+      {
+        "name": "鐵掌力士",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "055",
+    "name": "高崗的黃色草叢",
+    "image": "images/habitats/055.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7a4bfef93c3077f0d2ef32e33c39d6ab.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "長翅鷗",
+        "rarity": 1
+      },
+      {
+        "name": "大嘴鷗",
+        "rarity": 2
+      },
+      {
+        "name": "叉字蝠",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "name": "濕潤的黃色草叢",
+    "image": "images/habitats/056.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/256206a7820db62fb1c333f7babf0849.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "露力麗",
+        "rarity": 1
+      },
+      {
+        "name": "波加曼",
+        "rarity": 1
+      },
+      {
+        "name": "瑪力露",
+        "rarity": 2
+      },
+      {
+        "name": "波皇子",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "name": "沼澤的草叢",
+    "image": "images/habitats/057.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fe04f44d5b6dff4f6e6b1346cb39e925.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      },
+      {
+        "name": "泥水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "烏波-帕底亞",
+        "rarity": 1
+      },
+      {
+        "name": "土王",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "name": "草叢的自動販賣機",
+    "image": "images/habitats/058.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c9bd7686284cff6d06d25c2d582f54fa.jpeg",
+    "materials": [
+      {
+        "name": "黃色的草",
+        "count": 4
+      },
+      {
+        "name": "自動販賣機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "咩利羊",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "059",
+    "name": "涼爽的花田",
+    "image": "images/habitats/059.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5d56b1fb4c7cc9169b08e479d2fb6b1c.jpeg",
+    "materials": [
+      {
+        "name": "海邊的花",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "布撥",
+        "rarity": 1
+      },
+      {
+        "name": "索羅亞",
+        "rarity": 1
+      },
+      {
+        "name": "索羅亞克",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "060",
+    "name": "南國氣氛",
+    "image": "images/habitats/060.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5b8dd4d48950a2facfb8edb0c3b980a2.jpeg",
+    "materials": [
+      {
+        "name": "大椰子樹",
+        "count": 1
+      },
+      {
+        "name": "海邊的花",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "臭臭花",
+        "rarity": 1
+      },
+      {
+        "name": "蛋蛋",
+        "rarity": 1
+      },
+      {
+        "name": "椰蛋樹",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "061",
+    "name": "風之花田",
+    "image": "images/habitats/061.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/52f4a45155781fae2c56341f519d05e9.jpeg",
+    "materials": [
+      {
+        "name": "海邊的花",
+        "count": 1
+      },
+      {
+        "name": "風力發電機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "長翅鷗",
+        "rarity": 1
+      },
+      {
+        "name": "大嘴鷗",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "name": "沙灘的樹蔭",
+    "image": "images/habitats/062.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/89fce1dc4dbd3e05f24a70389d911e17.jpeg",
+    "materials": [
+      {
+        "name": "大椰子樹",
+        "count": 1
+      },
+      {
+        "name": "沙灘椅",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蛋蛋",
+        "rarity": 1
+      },
+      {
+        "name": "椰蛋樹",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "name": "熱帶海岸邊",
+    "image": "images/habitats/063.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b0c12218a3b1132203ead4bc4df67bd5.jpeg",
+    "materials": [
+      {
+        "name": "花籬（全部）",
+        "count": 4
+      },
+      {
+        "name": "海水",
+        "count": 2
+      },
+      {
+        "name": "大椰子樹",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "拉普拉斯",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "064",
+    "name": "休息好地方",
+    "image": "images/habitats/064.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6b71541a427c4d4e2413069e9f6da1c3.jpeg",
+    "materials": [
+      {
+        "name": "瓦楞紙箱",
+        "count": 1
+      },
+      {
+        "name": "乾草床鋪",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "喵喵",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "name": "來收拾吧",
+    "image": "images/habitats/065.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f3ad46466eaba213b58b68b3bc32c7e2.jpeg",
+    "materials": [
+      {
+        "name": "玩具（全部）",
+        "count": 2
+      },
+      {
+        "name": "瓦楞紙箱",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "卡蒂狗",
+        "rarity": 1
+      },
+      {
+        "name": "露力麗",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "name": "垃圾集中站",
+    "image": "images/habitats/066.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fa2b5898402d02830d991a3f88c43af8.jpeg",
+    "materials": [
+      {
+        "name": "垃圾桶（全部）",
+        "count": 1
+      },
+      {
+        "name": "牌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "垃圾袋",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "破破袋",
+        "rarity": 1
+      },
+      {
+        "name": "瓦斯彈",
+        "rarity": 1
+      },
+      {
+        "name": "灰塵山",
+        "rarity": 2
+      },
+      {
+        "name": "雙彈瓦斯",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "067",
+    "name": "垃圾桶擺好擺滿",
+    "image": "images/habitats/067.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7f366e9c36a4d823ff64b16dee1ccc30.jpeg",
+    "materials": [
+      {
+        "name": "垃圾桶",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "三合一磁怪",
+        "rarity": 2
+      },
+      {
+        "name": "電擊獸",
+        "rarity": 2
+      },
+      {
+        "name": "自爆磁怪",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "name": "垃圾場",
+    "image": "images/habitats/068.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/8c37b23b04891cf1387bd19fbfbad716.jpeg",
+    "materials": [
+      {
+        "name": "電線杆",
+        "count": 1
+      },
+      {
+        "name": "垃圾袋",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "叉字蝠",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "name": "公園的長椅",
+    "image": "images/habitats/069.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/902e2aa693165ece503d3606f566133e.jpeg",
+    "materials": [
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      },
+      {
+        "name": "垃圾桶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "霹靂電球",
+        "rarity": 1
+      },
+      {
+        "name": "超音蝠",
+        "rarity": 1
+      },
+      {
+        "name": "頑皮雷彈",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "name": "餓肚肚餐廳",
+    "image": "images/habitats/070.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c1f1d84d6ece42b72e636eef4535328f.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "菜單立牌",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "布撥",
+        "rarity": 1
+      },
+      {
+        "name": "布土撥",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "name": "&nbsp;",
+    "image": "images/habitats/071.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/10e5b48d2c0b6e9b8043e822506cca70.jpeg",
+    "materials": [
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "單枝花花瓶",
+        "count": 1
+      },
+      {
+        "name": "推車",
+        "count": 1
+      },
+      {
+        "name": "雅緻桌子",
+        "count": 1
+      },
+      {
+        "name": "雅緻椅子",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "帝王拿波",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "072",
+    "name": "咕咕啾啾大餐",
+    "image": "images/habitats/072.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3bed24ff63b9a22d970aa5b003b8f263.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "木頭巢箱",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火雉雞",
+        "rarity": 1
+      },
+      {
+        "name": "火焰雞",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "073",
+    "name": "咖啡空間",
+    "image": "images/habitats/073.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e7e5b292c5355c2407c7b1ee5b33b296.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 2
+      },
+      {
+        "name": "吧台",
+        "count": 2
+      },
+      {
+        "name": "菜單立牌",
+        "count": 1
+      },
+      {
+        "name": "馬克杯",
+        "count": 1
+      },
+      {
+        "name": "盆栽樹（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "布土撥",
+        "rarity": 1
+      },
+      {
+        "name": "巴布土撥",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "074",
+    "name": "海灘套組",
+    "image": "images/habitats/074.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/52de08f1b61864b0d6df0c948b5989a8.jpeg",
+    "materials": [
+      {
+        "name": "邊桌",
+        "count": 1
+      },
+      {
+        "name": "沙灘遮陽傘",
+        "count": 1
+      },
+      {
+        "name": "沙灘椅",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "米立龍-上弓",
+        "rarity": 2
+      },
+      {
+        "name": "米立龍-平頂",
+        "rarity": 2
+      },
+      {
+        "name": "米立龍-下垂",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "075",
+    "name": "燈光舞台",
+    "image": "images/habitats/075.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1b0e13ab5a622a8c8209eb9d94050ea9.jpeg",
+    "materials": [
+      {
+        "name": "聚光燈",
+        "count": 2
+      },
+      {
+        "name": "舞台",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "電擊獸",
+        "rarity": 1
+      },
+      {
+        "name": "電擊魔獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "076",
+    "name": "小心機關",
+    "image": "images/habitats/076.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/af6db4769b8f1b7b6056549d8b386903.jpeg",
+    "materials": [
+      {
+        "name": "氣球",
+        "count": 2
+      },
+      {
+        "name": "驚喜盒",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鬼斯通",
+        "rarity": 1
+      },
+      {
+        "name": "索羅亞克",
+        "rarity": 2
+      },
+      {
+        "name": "耿鬼",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "077",
+    "name": "&nbsp;夜晚的慶典會場",
+    "image": "images/habitats/077.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/00958e4f450645b495f19167c8c1185d.jpeg",
+    "materials": [
+      {
+        "name": "氣球",
+        "count": 2
+      },
+      {
+        "name": "雷丘招牌",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "茸茸羊",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "078",
+    "name": "更衣區",
+    "image": "images/habitats/078.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d30e29914a06e659a1bcbdc5ab5e263d.jpeg",
+    "materials": [
+      {
+        "name": "衣櫥（全部）",
+        "count": 1
+      },
+      {
+        "name": "鏡子（大型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "泡沫栗鼠",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "079",
+    "name": "更衣中別偷看",
+    "image": "images/habitats/079.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/45bbb1e6cc4d2bf831294f2aa5144766.jpeg",
+    "materials": [
+      {
+        "name": "隔板（全部）",
+        "count": 2
+      },
+      {
+        "name": "衣櫃（全部）",
+        "count": 1
+      },
+      {
+        "name": "梳妝台（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "泡沫栗鼠",
+        "rarity": 1
+      },
+      {
+        "name": "奇諾栗鼠",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "080",
+    "name": "用毛線來織東西吧",
+    "image": "images/habitats/080.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a05627ebb910c482435354bdb11e3f27.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "編織套組",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "咩利羊",
+        "rarity": 1
+      },
+      {
+        "name": "茸茸羊",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "081",
+    "name": "溫泉沖洗區",
+    "image": "images/habitats/081.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fc3b4df071a1674013ac7fef93b71e7c.jpeg",
+    "materials": [
+      {
+        "name": "溫泉",
+        "count": 2
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "蓮蓬頭",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "可達鴨",
+        "rarity": 1
+      },
+      {
+        "name": "哥達鴨",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "082",
+    "name": "度假區的備餐時刻",
+    "image": "images/habitats/082.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1f7712f2ea685c22ffeafd12da0cbbe8.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "大椰子樹",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "火堆",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "卡蒂狗",
+        "rarity": 1
+      },
+      {
+        "name": "火雉雞",
+        "rarity": 1
+      },
+      {
+        "name": "力壯雞",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "083",
+    "name": "&nbsp;打包好囉",
+    "image": "images/habitats/083.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/602ed030c0ed8f8ca734d1cadc10aba8.jpeg",
+    "materials": [
+      {
+        "name": "瓦楞紙箱",
+        "count": 2
+      },
+      {
+        "name": "板車",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "大蔥鴨",
+        "rarity": 1
+      },
+      {
+        "name": "幕下力士",
+        "rarity": 1
+      },
+      {
+        "name": "鐵掌力士",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "084",
+    "name": "痊癒前好好休息",
+    "image": "images/habitats/084.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e35c17a015e1ee7183f6e2b0d4190025.jpeg",
+    "materials": [
+      {
+        "name": "床鋪（全部）",
+        "count": 1
+      },
+      {
+        "name": "急救箱",
+        "count": 1
+      },
+      {
+        "name": "自然風櫃子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "淺淺丘",
+        "rarity": 2
+      },
+      {
+        "name": "吉利蛋",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "085",
+    "name": "鬧鐘床鋪空間",
+    "image": "images/habitats/085.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/36d1d07ce00523293d4e352a1937784f.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "床鋪（全部）",
+        "count": 1
+      },
+      {
+        "name": "鬧鐘",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "小福蛋",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "086",
+    "name": "&nbsp;自動販賣機旁偷個閒",
+    "image": "images/habitats/086.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d89d3e24c5492bbac97d1103594e886a.jpeg",
+    "materials": [
+      {
+        "name": "自動販賣機",
+        "count": 1
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "強顎雞母蟲",
+        "rarity": 1
+      },
+      {
+        "name": "蟲電寶",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "087",
+    "name": "&nbsp;自動販賣機套組",
+    "image": "images/habitats/087.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9591a12cf958aa9d6eec3ef73593c85e.jpeg",
+    "materials": [
+      {
+        "name": "自動販賣機",
+        "count": 1
+      },
+      {
+        "name": "垃圾桶（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "電擊怪",
+        "rarity": 1
+      },
+      {
+        "name": "電擊魔獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "088",
+    "name": "迷你遊戲城",
+    "image": "images/habitats/088.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d13a65002ff7bf860f9ed03d91f236ee.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "遊戲街機",
+        "count": 1
+      },
+      {
+        "name": "打擊測力機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "三合一磁怪",
+        "rarity": 1
+      },
+      {
+        "name": "自爆磁怪",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "name": "水力發電廠",
+    "image": "images/habitats/089.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1128aa2b58899667a8ffc9065b319058.jpeg",
+    "materials": [
+      {
+        "name": "水",
+        "count": 2
+      },
+      {
+        "name": "瀑布",
+        "count": 1
+      },
+      {
+        "name": "水力發電機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "波皇子",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "090",
+    "name": "火力發電廠",
+    "image": "images/habitats/090.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/14384c41d08eca03e8c654884cd73e76.jpeg",
+    "materials": [
+      {
+        "name": "金屬桶",
+        "count": 1
+      },
+      {
+        "name": "火力發電機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "力壯雞",
+        "rarity": 1
+      },
+      {
+        "name": "火焰雞",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "name": "碼頭",
+    "image": "images/habitats/091.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/849cfbafab18593116ec89d95f29cf8d.jpeg",
+    "materials": [
+      {
+        "name": "路燈（全部）",
+        "count": 1
+      },
+      {
+        "name": "淺橋",
+        "count": 1
+      },
+      {
+        "name": "海水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "瑪力露",
+        "rarity": 1
+      },
+      {
+        "name": "瑪力露麗",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "name": "詭異書房",
+    "image": "images/habitats/092.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fe851b4796927ae322e7134977aac2d9.jpeg",
+    "materials": [
+      {
+        "name": "書架",
+        "count": 1
+      },
+      {
+        "name": "自然風桌子",
+        "count": 1
+      },
+      {
+        "name": "雅緻沙發",
+        "count": 1
+      },
+      {
+        "name": "細長蠟燭",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鬼斯",
+        "rarity": 1
+      },
+      {
+        "name": "鬼斯通",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "name": "水手家家酒",
+    "image": "images/habitats/093.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/751d488b6c02193748b4895757e0f96c.jpeg",
+    "materials": [
+      {
+        "name": "木桶",
+        "count": 2
+      },
+      {
+        "name": "發射筒",
+        "count": 2
+      },
+      {
+        "name": "舵輪",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "霹靂電球",
+        "rarity": 1
+      },
+      {
+        "name": "頑皮雷彈",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "name": "到收銀檯結帳",
+    "image": "images/habitats/094.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b66b2573f61e49435755cbad4c81f480.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 2
+      },
+      {
+        "name": "收銀機",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "喵喵",
+        "rarity": 1
+      },
+      {
+        "name": "小福蛋",
+        "rarity": 1
+      },
+      {
+        "name": "差不多娃娃",
+        "rarity": 1
+      },
+      {
+        "name": "大嘴娃",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "name": "小小畫室",
+    "image": "images/habitats/095.png",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/2423f04bf6d1117fb46af88e2f5ac982.png",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "畫布",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "圖圖犬老師",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "096",
+    "name": "供奉美食",
+    "image": "images/habitats/096.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/010966aeedece9d4ee3fc9f13ee52925.jpeg",
+    "materials": [
+      {
+        "name": "供桌",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "苔卡比獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "name": "皮卡丘空間",
+    "image": "images/habitats/097.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d2ad3a57f6159d857dc5952264a82e98.jpeg",
+    "materials": [
+      {
+        "name": "皮卡丘沙發",
+        "count": 1
+      },
+      {
+        "name": "皮卡丘布偶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "謎擬Q",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "098",
+    "name": "超可愛空間",
+    "image": "images/habitats/098.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/063312d55a3b121222e488da5d87b9e9.jpeg",
+    "materials": [
+      {
+        "name": "可愛梳妝台",
+        "count": 1
+      },
+      {
+        "name": "可愛床鋪",
+        "count": 1
+      },
+      {
+        "name": "可愛檯燈",
+        "count": 1
+      },
+      {
+        "name": "可愛桌子",
+        "count": 1
+      },
+      {
+        "name": "可愛沙發",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "幸福蛋",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "name": "歡迎光臨度假村",
+    "image": "images/habitats/099.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/14ec241e59fbcf09638145cdc454f23d.jpeg",
+    "materials": [
+      {
+        "name": "度假風情沙發",
+        "count": 1
+      },
+      {
+        "name": "度假風情桌子",
+        "count": 1
+      },
+      {
+        "name": "度假風情吊床",
+        "count": 1
+      },
+      {
+        "name": "度假風情燈",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "阿勃梭魯",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "自然風格的生活",
+    "image": "images/habitats/100.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b2a339e0a855b4e4f6c1132c6d2940f7.jpeg",
+    "materials": [
+      {
+        "name": "自然風桌子",
+        "count": 1
+      },
+      {
+        "name": "自然風床鋪",
+        "count": 1
+      },
+      {
+        "name": "自然風檯燈",
+        "count": 1
+      },
+      {
+        "name": "自然風沙發",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "電龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "紅色的草叢",
+    "image": "images/habitats/101.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d2bd266c8f4d27c700e6c6ecf681f9c9.jpeg",
+    "materials": [
+      {
+        "name": "紅色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "炎兔兒",
+        "rarity": 1
+      },
+      {
+        "name": "利歐路",
+        "rarity": 1
+      },
+      {
+        "name": "圓法師",
+        "rarity": 1
+      },
+      {
+        "name": "音箱蟀",
+        "rarity": 2
+      },
+      {
+        "name": "閃焰王牌",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "樹蔭的紅色草叢",
+    "image": "images/habitats/102.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6e235941055997d11768fc7dd7f9c48d.jpeg",
+    "materials": [
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      },
+      {
+        "name": "紅色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "地鼠",
+        "rarity": 1
+      },
+      {
+        "name": "盆才怪",
+        "rarity": 1
+      },
+      {
+        "name": "三地鼠",
+        "rarity": 2
+      },
+      {
+        "name": "樹才怪",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "三角樹蔭下的岩石與草叢",
+    "image": "images/habitats/103.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4bc6dc74701a771e8cae2d68c72647f2.jpeg",
+    "materials": [
+      {
+        "name": "三角樹",
+        "count": 1
+      },
+      {
+        "name": "大石頭",
+        "count": 1
+      },
+      {
+        "name": "紅色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "投羽梟",
+        "rarity": 1
+      },
+      {
+        "name": "狙射樹梟",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "濕潤的紅色草叢",
+    "image": "images/habitats/104.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3761cfc1055199453a2bdef0a8be431b.jpeg",
+    "materials": [
+      {
+        "name": "紅色的草",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蓮葉童子",
+        "rarity": 1
+      },
+      {
+        "name": "蓮帽小童",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "高崗的紅色草叢",
+    "image": "images/habitats/105.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/303beb0ed2abb6c7b26eaea70da3a8de.jpeg",
+    "materials": [
+      {
+        "name": "紅色的草",
+        "count": 4
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "聒噪鳥",
+        "rarity": 1
+      },
+      {
+        "name": "黑暗鴨",
+        "rarity": 1
+      },
+      {
+        "name": "烏鴉頭頭",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "草叢訓練場",
+    "image": "images/habitats/106.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/0b527d04b0c8e744b2558c0bce3d3839.jpeg",
+    "materials": [
+      {
+        "name": "紅色的草",
+        "count": 4
+      },
+      {
+        "name": "沙包",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "豪力",
+        "rarity": 1
+      },
+      {
+        "name": "怪力",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "優雅的花田",
+    "image": "images/habitats/107.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/060236cf643e080c97cb7a5c6cfdd2ae.jpeg",
+    "materials": [
+      {
+        "name": "岩地的花",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "皮寶寶",
+        "rarity": 1
+      },
+      {
+        "name": "皮皮",
+        "rarity": 1
+      },
+      {
+        "name": "狗仔包",
+        "rarity": 1
+      },
+      {
+        "name": "麻花犬",
+        "rarity": 2
+      },
+      {
+        "name": "皮可西",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "樹蔭的優雅花田",
+    "image": "images/habitats/108.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/09a7643d171d25a37bc30a4b6de18574.jpeg",
+    "materials": [
+      {
+        "name": "岩地的花",
+        "count": 4
+      },
+      {
+        "name": "三角樹",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "黑暗鴨",
+        "rarity": 1
+      },
+      {
+        "name": "燃燒蟲",
+        "rarity": 1
+      },
+      {
+        "name": "火神蛾",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "濕潤的優雅花田",
+    "image": "images/habitats/109.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9252a2f80d1b80c16036728cf1b1de03.jpeg",
+    "materials": [
+      {
+        "name": "岩地的花",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "阿柏蛇",
+        "rarity": 1
+      },
+      {
+        "name": "阿柏怪",
+        "rarity": 2
+      },
+      {
+        "name": "蚊香蛙皇",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "&nbsp;",
+    "image": "images/habitats/110.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/59b7c50bb9738b6bb9f55c086f486ada.jpeg",
+    "materials": [
+      {
+        "name": "岩地的花",
+        "count": 4
+      },
+      {
+        "name": "樹樁（全部）",
+        "count": 1
+      },
+      {
+        "name": "蘑菇檯燈",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "寶寶丁",
+        "rarity": 1
+      },
+      {
+        "name": "胖丁",
+        "rarity": 1
+      },
+      {
+        "name": "蚊香蛙皇",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "&nbsp;",
+    "image": "images/habitats/111.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b4cced06c2ff7bc24dd0c2283c783722.jpeg",
+    "materials": [
+      {
+        "name": "手推車",
+        "count": 1
+      },
+      {
+        "name": "蔬菜田（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "班基拉斯",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "快樂無比的水坑",
+    "image": "images/habitats/112.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bcd8dcb667833a4aed3edf7f550ace25.jpeg",
+    "materials": [
+      {
+        "name": "浮萍",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蓮帽小童",
+        "rarity": 1
+      },
+      {
+        "name": "樂天河童",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "滿滿是苔",
+    "image": "images/habitats/113.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/60953cfe0a27fd748964957a66045316.jpeg",
+    "materials": [
+      {
+        "name": "苔癬",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "幼基拉斯",
+        "rarity": 1
+      },
+      {
+        "name": "班基拉斯",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "滿滿是苔的岩石",
+    "image": "images/habitats/114.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/58c26d5b94e0536e69107231ecf256ed.jpeg",
+    "materials": [
+      {
+        "name": "苔癬",
+        "count": 4
+      },
+      {
+        "name": "苔岩",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "隆隆石",
+        "rarity": 1
+      },
+      {
+        "name": "隆隆岩",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "&nbsp;生苔的溫泉",
+    "image": "images/habitats/115.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/46e6951f050160f72bf59bf5d602cf2a.jpeg",
+    "materials": [
+      {
+        "name": "苔癬",
+        "count": 4
+      },
+      {
+        "name": "溫泉",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "煤炭龜",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "露天溫泉",
+    "image": "images/habitats/116.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/229b82dc15520b65958f26e63c436d27.jpeg",
+    "materials": [
+      {
+        "name": "溫泉",
+        "count": 2
+      },
+      {
+        "name": "出水口",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "騰蹴小將",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "養生溫泉",
+    "image": "images/habitats/117.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/90900ec2b21e536add9fc252b0849397.jpeg",
+    "materials": [
+      {
+        "name": "溫泉",
+        "count": 2
+      },
+      {
+        "name": "出水口",
+        "count": 1
+      },
+      {
+        "name": "水盆",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蚊香蛙皇",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "&nbsp;熔岩熔岩熱呼呼",
+    "image": "images/habitats/118.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bdf55ae918beaf9cab9585597dd2b309.jpeg",
+    "materials": [
+      {
+        "name": "熔岩",
+        "count": 2
+      },
+      {
+        "name": "熱熱岩",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "炭小侍",
+        "rarity": 1
+      },
+      {
+        "name": "火神蛾",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "挖挖又燒燒",
+    "image": "images/habitats/119.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bbada996d889728654bc0cc6e8b60eb2.jpeg",
+    "materials": [
+      {
+        "name": "掘山工具",
+        "count": 1
+      },
+      {
+        "name": "手推車",
+        "count": 1
+      },
+      {
+        "name": "熔礦爐",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鴨嘴火獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "&nbsp;鏘啷鏘啷鋼構工程",
+    "image": "images/habitats/120.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a2bc666331fc878ad54abc25fe42c52d.jpeg",
+    "materials": [
+      {
+        "name": "鋼骨",
+        "count": 3
+      },
+      {
+        "name": "掘山工具",
+        "count": 1
+      },
+      {
+        "name": "手推車",
+        "count": 1
+      },
+      {
+        "name": "沙包",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "大鋼蛇",
+        "rarity": 1
+      },
+      {
+        "name": "怪力",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "詭異的白色岩石",
+    "image": "images/habitats/121.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fd19cac28d2cad61b52695301fb70af4.jpeg",
+    "materials": [
+      {
+        "name": "苔癬",
+        "count": 4
+      },
+      {
+        "name": "木箱",
+        "count": 1
+      },
+      {
+        "name": "提燈",
+        "count": 1
+      },
+      {
+        "name": "竹筍岩",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "晶光芽",
+        "rarity": 1
+      },
+      {
+        "name": "晶光花",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "在置物場吃點東西",
+    "image": "images/habitats/122.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/82313e9a7eaeec61af9f3fc5e8f9fbbe.jpeg",
+    "materials": [
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "木箱",
+        "count": 1
+      },
+      {
+        "name": "提燈",
+        "count": 1
+      },
+      {
+        "name": "木桶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "地鼠",
+        "rarity": 1
+      },
+      {
+        "name": "晶光芽",
+        "rarity": 1
+      },
+      {
+        "name": "晶光花",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "&nbsp;充滿期待的餐桌",
+    "image": "images/habitats/123.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3cda7dd5c487078e524e9882fe4dce20.jpeg",
+    "materials": [
+      {
+        "name": "派對餐盤",
+        "count": 4
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 2
+      },
+      {
+        "name": "桌子（大型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "吞食獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "大口吃麵包工坊",
+    "image": "images/habitats/124.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ca7e8cb37fb5bd29747ff75c80f0e447.jpeg",
+    "materials": [
+      {
+        "name": "櫃檯",
+        "count": 2
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "麵包爐",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "狗仔包",
+        "rarity": 1
+      },
+      {
+        "name": "麻花犬",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "迷你廚房",
+    "image": "images/habitats/125.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6725be21a1e83903179c754b70cbd3ef.jpeg",
+    "materials": [
+      {
+        "name": "平底鍋（全部）",
+        "count": 1
+      },
+      {
+        "name": "廚房桌子",
+        "count": 1
+      },
+      {
+        "name": "水槽",
+        "count": 1
+      },
+      {
+        "name": "爐子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鴨嘴炎獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "大家一起派對",
+    "image": "images/habitats/126.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/e55d395134cbe3de00ad00bf0dd51fcf.jpeg",
+    "materials": [
+      {
+        "name": "派對杯",
+        "count": 1
+      },
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "派對櫃檯",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "三地鼠",
+        "rarity": 1
+      },
+      {
+        "name": "樹才怪",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "悠閒回顧照片",
+    "image": "images/habitats/127.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d13cebaebb00020b31dac0413c3cf7f0.jpeg",
+    "materials": [
+      {
+        "name": "派對杯",
+        "count": 1
+      },
+      {
+        "name": "平板電腦",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "毒電嬰",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "啁啁啾啾演唱會",
+    "image": "images/habitats/128.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a8f47b29cfd6a4ae351f3f678bf7ead9.jpeg",
+    "materials": [
+      {
+        "name": "直立麥克風",
+        "count": 1
+      },
+      {
+        "name": "棲木",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "聒噪鳥",
+        "rarity": 1
+      },
+      {
+        "name": "烏鴉頭頭",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "演唱會舞台",
+    "image": "images/habitats/129.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6e74502c33d18a53e03ef7f0234af9d9.jpeg",
+    "materials": [
+      {
+        "name": "音響",
+        "count": 2
+      },
+      {
+        "name": "直立麥克風",
+        "count": 1
+      },
+      {
+        "name": "舞台",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "胖丁",
+        "rarity": 1
+      },
+      {
+        "name": "胖可丁",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "跟著節奏一二跳",
+    "image": "images/habitats/130.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/be9478e71d2eaddd544b3c0982efdf5e.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "沙袋",
+        "count": 1
+      },
+      {
+        "name": "CD播放器",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "利歐路",
+        "rarity": 1
+      },
+      {
+        "name": "路卡利歐",
+        "rarity": 1
+      },
+      {
+        "name": "豪力",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "音樂和閱讀",
+    "image": "images/habitats/131.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a12ca8a56fa2e86f2d00b313eb7e7081.jpeg",
+    "materials": [
+      {
+        "name": "CD播放器",
+        "count": 1
+      },
+      {
+        "name": "CD架",
+        "count": 1
+      },
+      {
+        "name": "雜誌櫃",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "圓法師",
+        "rarity": 1
+      },
+      {
+        "name": "音箱蟀",
+        "rarity": 1
+      },
+      {
+        "name": "嗨High洛托姆",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "小小博物館",
+    "image": "images/habitats/132.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ae0e1c929ae3a723fcae46e35c500854.jpeg",
+    "materials": [
+      {
+        "name": "遺失物（大型）",
+        "count": 1
+      },
+      {
+        "name": "展示台",
+        "count": 1
+      },
+      {
+        "name": "分隔物（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "索財靈",
+        "rarity": 1
+      },
+      {
+        "name": "風速狗",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "&nbsp;清爽的更衣室",
+    "image": "images/habitats/133.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/73fd7a6ce781fbbb1af98dc3b1c7ad85.jpeg",
+    "materials": [
+      {
+        "name": "辦公室的置物櫃",
+        "count": 2
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      },
+      {
+        "name": "打擊測力機",
+        "count": 1
+      },
+      {
+        "name": "種植木（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "騰蹴小將",
+        "rarity": 1
+      },
+      {
+        "name": "閃焰王牌",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "銅像景點",
+    "image": "images/habitats/134.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/693dfb33064e078e764ed811a0c21e40.jpeg",
+    "materials": [
+      {
+        "name": "花籬（全部）",
+        "count": 4
+      },
+      {
+        "name": "月夜起舞像",
+        "count": 1
+      },
+      {
+        "name": "牌子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "皮皮",
+        "rarity": 1
+      },
+      {
+        "name": "皮可西",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "平交道",
+    "image": "images/habitats/135.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/371cc1bc355479eb330c8cf39fdaf3db.jpeg",
+    "materials": [
+      {
+        "name": "鐵軌",
+        "count": 1
+      },
+      {
+        "name": "平交道柵欄",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "小炭仔",
+        "rarity": 1
+      },
+      {
+        "name": "大炭車",
+        "rarity": 1
+      },
+      {
+        "name": "巨炭山",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "主廚的廚房",
+    "image": "images/habitats/136.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/935c8d7ad1709c5c470698adfbfb836d.jpeg",
+    "materials": [
+      {
+        "name": "盤中的食物",
+        "count": 1
+      },
+      {
+        "name": "自然風桌子",
+        "count": 1
+      },
+      {
+        "name": "時尚鍋",
+        "count": 1
+      },
+      {
+        "name": "水槽",
+        "count": 1
+      },
+      {
+        "name": "爐子",
+        "count": 1
+      },
+      {
+        "name": "砧板",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "藏飽栗廚",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "name": "極致豪華",
+    "image": "images/habitats/137.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/456eb614017fa632c481093564e08d9c.jpeg",
+    "materials": [
+      {
+        "name": "豪華燈",
+        "count": 1
+      },
+      {
+        "name": "豪華沙發",
+        "count": 1
+      },
+      {
+        "name": "豪華床鋪",
+        "count": 1
+      },
+      {
+        "name": "豪華桌子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "賽富豪",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "&nbsp;沉甸甸的鐵",
+    "image": "images/habitats/138.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/74f8a0224cfc610c5595c936a1d15eb9.jpeg",
+    "materials": [
+      {
+        "name": "鐵床鋪",
+        "count": 1
+      },
+      {
+        "name": "提燈",
+        "count": 1
+      },
+      {
+        "name": "鐵桌子",
+        "count": 1
+      },
+      {
+        "name": "鐵椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "巨炭山",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name": "現代生活",
+    "image": "images/habitats/139.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/aa6f900555f2e0bd2cbb08a8817e6b76.jpeg",
+    "materials": [
+      {
+        "name": "工業風床鋪",
+        "count": 1
+      },
+      {
+        "name": "工業風桌子",
+        "count": 1
+      },
+      {
+        "name": "工業風椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "狙射樹梟",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "粉色的草叢",
+    "image": "images/habitats/140.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6d60c2bdda7cbae6174d45afe48afb47.jpeg",
+    "materials": [
+      {
+        "name": "粉色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "夜巡靈",
+        "rarity": 1
+      },
+      {
+        "name": "青綿鳥",
+        "rarity": 1
+      },
+      {
+        "name": "大顎蟻",
+        "rarity": 1
+      },
+      {
+        "name": "超音波幼蟲",
+        "rarity": 2
+      },
+      {
+        "name": "沙漠蜻蜓",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name": "樹蔭的粉色草叢",
+    "image": "images/habitats/141.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7d5938456997e80c1e2bb77c458dd978.jpeg",
+    "materials": [
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      },
+      {
+        "name": "粉色的草",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "新葉喵",
+        "rarity": 1
+      },
+      {
+        "name": "多龍梅西亞",
+        "rarity": 1
+      },
+      {
+        "name": "沙基拉斯",
+        "rarity": 1
+      },
+      {
+        "name": "多龍奇",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "name": "濕潤的粉色草叢",
+    "image": "images/habitats/142.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6ac00fd02d8924be0935167d8715be1b.jpeg",
+    "materials": [
+      {
+        "name": "粉色的草",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "呱呱泡蛙",
+        "rarity": 1
+      },
+      {
+        "name": "呱頭蛙",
+        "rarity": 2
+      },
+      {
+        "name": "甲賀忍蛙",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "高崗的粉色草叢",
+    "image": "images/habitats/143.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/3d6f3ca33c8b97861f5b5ae4c443a25a.jpeg",
+    "materials": [
+      {
+        "name": "粉色的草",
+        "count": 4
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "電海燕",
+        "rarity": 1
+      },
+      {
+        "name": "藍鴉",
+        "rarity": 1
+      },
+      {
+        "name": "大電海燕",
+        "rarity": 2
+      },
+      {
+        "name": "鋼鎧鴉",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "水管秘密基地",
+    "image": "images/habitats/144.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a08fe83210c881cd58ee97c7f0a29181.jpeg",
+    "materials": [
+      {
+        "name": "草（全部）",
+        "count": 4
+      },
+      {
+        "name": "水管",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火球鼠",
+        "rarity": 1
+      },
+      {
+        "name": "火岩鼠",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name": "軟綿綿的花田",
+    "image": "images/habitats/145.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bd8fe6c32ccb6c3acff26e5374ba504b.jpeg",
+    "materials": [
+      {
+        "name": "浮島的花",
+        "count": 4
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "稚山雀",
+        "rarity": 1
+      },
+      {
+        "name": "夢妖",
+        "rarity": 1
+      },
+      {
+        "name": "六尾",
+        "rarity": 1
+      },
+      {
+        "name": "夢妖魔",
+        "rarity": 2
+      },
+      {
+        "name": "九尾",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "name": "樹蔭的軟綿綿花田",
+    "image": "images/habitats/146.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a8d3a6eb59a6ad13b10e61482a522a0e.jpeg",
+    "materials": [
+      {
+        "name": "浮島的花",
+        "count": 4
+      },
+      {
+        "name": "大樹（全部）",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "麒麟奇",
+        "rarity": 1
+      },
+      {
+        "name": "青藤蛇",
+        "rarity": 2
+      },
+      {
+        "name": "奇麒麟",
+        "rarity": 2
+      },
+      {
+        "name": "君主蛇",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name": "濕潤的軟綿綿花田",
+    "image": "images/habitats/147.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fa8e4cb3e57ba5898164e6c445ef5287.jpeg",
+    "materials": [
+      {
+        "name": "浮島的花",
+        "count": 4
+      },
+      {
+        "name": "水",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "迷你龍",
+        "rarity": 1
+      },
+      {
+        "name": "蚊香蛙",
+        "rarity": 2
+      },
+      {
+        "name": "哈克龍",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name": "水邊小船",
+    "image": "images/habitats/148.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/c95fb6842e4d11e08444758fc4c852b8.jpeg",
+    "materials": [
+      {
+        "name": "浮萍",
+        "count": 2
+      },
+      {
+        "name": "水",
+        "count": 2
+      },
+      {
+        "name": "獨木舟",
+        "count": 1
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "快龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "name": "光照的瀑布",
+    "image": "images/habitats/149.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/8a94ff39eb02e12a0450581e578b7910.jpeg",
+    "materials": [
+      {
+        "name": "水",
+        "count": 3
+      },
+      {
+        "name": "踏石",
+        "count": 3
+      },
+      {
+        "name": "火炬",
+        "count": 2
+      },
+      {
+        "name": "瀑布",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "暴鯉龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "name": "&nbsp;鳥鳴花園",
+    "image": "images/habitats/150.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/45ca12024f0e5542daf058b8b13620d7.jpeg",
+    "materials": [
+      {
+        "name": "木頭巢箱",
+        "count": 1
+      },
+      {
+        "name": "時尚花籬",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "七夕青鳥",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "簡約浴室",
+    "image": "images/habitats/151.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/afbe11cd673d542f528116408c0feaf0.jpeg",
+    "materials": [
+      {
+        "name": "蓮蓬頭",
+        "count": 1
+      },
+      {
+        "name": "浴缸",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "迷你龍",
+        "rarity": 1
+      },
+      {
+        "name": "哈克龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "name": "騎行中休息",
+    "image": "images/habitats/152.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4efbb975cd30e5eeffbedd2926d1c42f.jpeg",
+    "materials": [
+      {
+        "name": "自動販賣機",
+        "count": 4
+      },
+      {
+        "name": "自行車",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鐵啞鈴",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "name": "暖爐旁打盹",
+    "image": "images/habitats/153.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/658550e202d13f92bc0535403c674dd0.jpeg",
+    "materials": [
+      {
+        "name": "石製壁爐",
+        "count": 1
+      },
+      {
+        "name": "椅子（長型）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火岩鼠",
+        "rarity": 1
+      },
+      {
+        "name": "火爆獸",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name": "滿溢的超能力",
+    "image": "images/habitats/154.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5b8910e37c7b5b14225511d238fb6697.jpeg",
+    "materials": [
+      {
+        "name": "簡約抱枕",
+        "count": 1
+      },
+      {
+        "name": "水晶球",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "凱西",
+        "rarity": 1
+      },
+      {
+        "name": "胡地",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "name": "水晶占卜",
+    "image": "images/habitats/155.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/7dcd161da6bd517fc077efb2914332ec.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 2
+      },
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "水晶球",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "凱西",
+        "rarity": 1
+      },
+      {
+        "name": "勇基拉",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name": "垃圾場的電視",
+    "image": "images/habitats/156.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5b7bd9583e1064b5168d948f27e1d801.jpeg",
+    "materials": [
+      {
+        "name": "垃圾袋",
+        "count": 2
+      },
+      {
+        "name": "電視",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "彷徨夜靈",
+        "rarity": 2
+      },
+      {
+        "name": "黑夜魔靈",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "name": "大型垃圾場",
+    "image": "images/habitats/157.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/aaadbcc92f8e9271c3e6adf118fb9745.jpeg",
+    "materials": [
+      {
+        "name": "鋼骨",
+        "count": 3
+      },
+      {
+        "name": "垃圾桶（全部）",
+        "count": 1
+      },
+      {
+        "name": "輪胎",
+        "count": 1
+      },
+      {
+        "name": "微波爐",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "小鍛匠",
+        "rarity": 1
+      },
+      {
+        "name": "巨鍛匠",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "name": "跟搭檔一起調查",
+    "image": "images/habitats/158.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b072c814ed62cf34ad2cf72a32c9264d.jpeg",
+    "materials": [
+      {
+        "name": "摺疊椅",
+        "count": 2
+      },
+      {
+        "name": "風速狗布偶",
+        "count": 1
+      },
+      {
+        "name": "桌燈",
+        "count": 1
+      },
+      {
+        "name": "工業風桌子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "新葉喵",
+        "rarity": 1
+      },
+      {
+        "name": "蒂蕾喵",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "name": "正在保養人孔蓋",
+    "image": "images/habitats/159.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4aafa0af8b8598d9d7863319b0eaf723.jpeg",
+    "materials": [
+      {
+        "name": "掘山工具",
+        "count": 1
+      },
+      {
+        "name": "鐵管堆",
+        "count": 1
+      },
+      {
+        "name": "人孔蓋",
+        "count": 1
+      },
+      {
+        "name": "可連結式三角錐",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "巧鍛匠",
+        "rarity": 1
+      },
+      {
+        "name": "鋼鎧鴉",
+        "rarity": 2
+      },
+      {
+        "name": "蚊香泳士",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "name": "亮晶晶洗手台",
+    "image": "images/habitats/160.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bfc96977ad03525055e9901dc9b7a52b.jpeg",
+    "materials": [
+      {
+        "name": "洗手台",
+        "count": 1
+      },
+      {
+        "name": "壁掛鏡子",
+        "count": 1
+      },
+      {
+        "name": "壁掛毛巾",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "魔尼尼",
+        "rarity": 1
+      },
+      {
+        "name": "魔牆人偶",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "name": "家庭影院",
+    "image": "images/habitats/161.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/640b8a585057559d9a9d67a26f1e0be0.jpeg",
+    "materials": [
+      {
+        "name": "音響",
+        "count": 2
+      },
+      {
+        "name": "電視",
+        "count": 1
+      },
+      {
+        "name": "矮櫃（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "夢妖魔",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "name": "學習空間",
+    "image": "images/habitats/162.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fb8b57ba5b9a5b4712dccfa92eeddc32.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "書架",
+        "count": 1
+      },
+      {
+        "name": "鉛筆筒",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "拉魯拉絲",
+        "rarity": 1
+      },
+      {
+        "name": "奇魯莉安",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "name": "律動客廳",
+    "image": "images/habitats/163.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b61b8e2d5040c62a4fb08a058a65a07b.jpeg",
+    "materials": [
+      {
+        "name": "音符墊",
+        "count": 4
+      },
+      {
+        "name": "音響",
+        "count": 2
+      },
+      {
+        "name": "電視",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "嗡蝠",
+        "rarity": 1
+      },
+      {
+        "name": "音波龍",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "name": "咻咻打掃",
+    "image": "images/habitats/164.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bc60eaaf351fd76987b2bb123fcd1c1b.jpeg",
+    "materials": [
+      {
+        "name": "清潔套組",
+        "count": 1
+      },
+      {
+        "name": "浴缸",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蚊香蝌蚪",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "name": "質感化妝台",
+    "image": "images/habitats/165.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4ef46aa7cd26687370057f7cc09144fc.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "梳妝台（全部）",
+        "count": 1
+      },
+      {
+        "name": "加濕器",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "奇魯莉安",
+        "rarity": 1
+      },
+      {
+        "name": "沙奈朵",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "name": "迷你圖書館",
+    "image": "images/habitats/166.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/842d608d894623ee073175c307e2c52e.jpeg",
+    "materials": [
+      {
+        "name": "書架",
+        "count": 2
+      },
+      {
+        "name": "梯凳",
+        "count": 1
+      },
+      {
+        "name": "燈光（全部）",
+        "count": 1
+      },
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "沙奈朵",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "name": "遊戲連線對戰",
+    "image": "images/habitats/167.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6e0bb4b300fa6125c38ea07528269f84.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 2
+      },
+      {
+        "name": "遊戲街機",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "多邊獸Z",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "name": "遊樂園",
+    "image": "images/habitats/168.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b36ed729ba7383dba5402f990979e348.jpeg",
+    "materials": [
+      {
+        "name": "玩具（全部）",
+        "count": 1
+      },
+      {
+        "name": "溜滑梯",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "藤藤蛇",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "name": "辦公桌",
+    "image": "images/habitats/169.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/36850d7ad7bbff968e36ca167bc848b8.jpeg",
+    "materials": [
+      {
+        "name": "筆記型電腦",
+        "count": 1
+      },
+      {
+        "name": "馬克杯",
+        "count": 1
+      },
+      {
+        "name": "辦公桌",
+        "count": 1
+      },
+      {
+        "name": "辦公室的椅子",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "多邊獸2",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "name": "辦公室倉庫",
+    "image": "images/habitats/170.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a3af7d16a4abe6480ce5b99f0a350038.jpeg",
+    "materials": [
+      {
+        "name": "梯凳",
+        "count": 1
+      },
+      {
+        "name": "瓦楞紙箱",
+        "count": 1
+      },
+      {
+        "name": "辦公室的大型櫃",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "夢妖",
+        "rarity": 1
+      },
+      {
+        "name": "多龍奇",
+        "rarity": 1
+      },
+      {
+        "name": "夢妖魔",
+        "rarity": 2
+      },
+      {
+        "name": "多龍巴魯托",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "name": "實驗空間",
+    "image": "images/habitats/171.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/bc14b618d65eeec83238dc252edabf80.jpeg",
+    "materials": [
+      {
+        "name": "實驗套組",
+        "count": 1
+      },
+      {
+        "name": "顯微鏡",
+        "count": 1
+      },
+      {
+        "name": "論文",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "胡地",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "name": "以博士為目標研究中",
+    "image": "images/habitats/172.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1ead669908f618e74b757e2f75738116.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "筆記型電腦",
+        "count": 1
+      },
+      {
+        "name": "纏繞的電線",
+        "count": 1
+      },
+      {
+        "name": "白板",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "金屬怪",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "name": "研究員的桌子",
+    "image": "images/habitats/173.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a50164cb1e924e3671f6d67d0282fc70.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 2
+      },
+      {
+        "name": "實驗套組",
+        "count": 1
+      },
+      {
+        "name": "桌上型電腦",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "多邊獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "name": "歡迎閱讀",
+    "image": "images/habitats/174.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/40a4a7b515a3729c7bc608b7629e58cf.jpeg",
+    "materials": [
+      {
+        "name": "塞滿的書架",
+        "count": 1
+      },
+      {
+        "name": "報紙",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "魔尼尼",
+        "rarity": 1
+      },
+      {
+        "name": "君主蛇",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "name": "咚咚驚喜箱",
+    "image": "images/habitats/175.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5ea0d69380c549d44271d91c3c50b1e8.jpeg",
+    "materials": [
+      {
+        "name": "聚光燈",
+        "count": 2
+      },
+      {
+        "name": "大太鼓",
+        "count": 1
+      },
+      {
+        "name": "驚喜盒",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "魔幻假面喵",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "name": "惡作劇開關",
+    "image": "images/habitats/176.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1ab65592749cc13b9fe0f022cda40b0e.jpeg",
+    "materials": [
+      {
+        "name": "驚喜盒",
+        "count": 1
+      },
+      {
+        "name": "平板電腦",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "呱頭蛙",
+        "rarity": 1
+      },
+      {
+        "name": "甲賀忍蛙",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "name": "絕景拍照版",
+    "image": "images/habitats/177.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/438401a3214454e311a4c4c2ed2dcace.jpeg",
+    "materials": [
+      {
+        "name": "聚光燈",
+        "count": 2
+      },
+      {
+        "name": "拍照立牌",
+        "count": 1
+      },
+      {
+        "name": "高處",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "正電拍拍",
+        "rarity": 1
+      },
+      {
+        "name": "負電拍拍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "name": "輪胎公園",
+    "image": "images/habitats/178.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6142da491e19c1f760d794b60c8b723e.jpeg",
+    "materials": [
+      {
+        "name": "跳輪胎",
+        "count": 2
+      },
+      {
+        "name": "輪胎",
+        "count": 1
+      },
+      {
+        "name": "溜滑梯",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "咚咚鼠",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "name": "大自然的市場",
+    "image": "images/habitats/179.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9d357f0d8367ab0e7b96a4b02f1ada8c.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 2
+      },
+      {
+        "name": "大樹（全部）",
+        "count": 1
+      },
+      {
+        "name": "大石頭",
+        "count": 1
+      },
+      {
+        "name": "收銀台",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "雷丘",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "name": "施工地的發電站",
+    "image": "images/habitats/180.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a4856615feeb64ec73f2edbcfc9d3091.jpeg",
+    "materials": [
+      {
+        "name": "鐵架",
+        "count": 2
+      },
+      {
+        "name": "鐵管堆",
+        "count": 1
+      },
+      {
+        "name": "火力發電廠",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "修建老匠",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "name": "在道場訓練",
+    "image": "images/habitats/181.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/6cfbf15607999326eec99c9353b5f7c8.jpeg",
+    "materials": [
+      {
+        "name": "怪力岩",
+        "count": 2
+      },
+      {
+        "name": "掛軸",
+        "count": 2
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蚊香泳士",
+        "rarity": 1
+      },
+      {
+        "name": "艾路雷朵",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "name": "邪惡組織的秘密基地",
+    "image": "images/habitats/182.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/8231c730cfe4fd6b3d6360153c810ce1.jpeg",
+    "materials": [
+      {
+        "name": "種植木（全部）",
+        "count": 2
+      },
+      {
+        "name": "豪華沙發",
+        "count": 1
+      },
+      {
+        "name": "火箭隊壁掛",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "貓老大",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "name": "九道火焰",
+    "image": "images/habitats/183.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9f821d45f863c33c2673a48b8e6ee914.jpeg",
+    "materials": [
+      {
+        "name": "篝火",
+        "count": 9
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "九尾",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "name": "被布偶圍滿",
+    "image": "images/habitats/184.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5db9c05eb3271c15e814633c394ab7d4.jpeg",
+    "materials": [
+      {
+        "name": "伊布布偶",
+        "count": 1
+      },
+      {
+        "name": "風速狗布偶",
+        "count": 1
+      },
+      {
+        "name": "皮卡丘布偶",
+        "count": 1
+      },
+      {
+        "name": "快龍布偶",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "飄飄球*1",
+        "rarity": 1
+      },
+      {
+        "name": "隨風球*1",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name": "絕佳的遊戲環境",
+    "image": "images/habitats/185.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/435b45933293b43df7a22a9c5658edf4.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "電競床鋪",
+        "count": 1
+      },
+      {
+        "name": "電競椅子",
+        "count": 1
+      },
+      {
+        "name": "電競冰箱",
+        "count": 1
+      },
+      {
+        "name": "電競電腦",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "巨金怪",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "name": "流行潮流",
+    "image": "images/habitats/186.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/1391086d27797f261cb032fac6c87aa2.jpeg",
+    "materials": [
+      {
+        "name": "流行床鋪",
+        "count": 1
+      },
+      {
+        "name": "流行桌子",
+        "count": 1
+      },
+      {
+        "name": "流行沙發",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火爆獸",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "name": "釣魚池",
+    "image": "images/habitats/187.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/eb69c157bcb8f6eb2da8e0d7556ba5bb.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "釣竿",
+        "count": 1
+      },
+      {
+        "name": "水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "呆殼獸",
+        "rarity": 2
+      },
+      {
+        "name": "呆呆王",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "name": "&nbsp;海釣",
+    "image": "images/habitats/188.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/af37467491d5b894097f1aeed150bfb5.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "釣竿",
+        "count": 1
+      },
+      {
+        "name": "海水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "鯉魚王",
+        "rarity": 1
+      },
+      {
+        "name": "海兔獸-西海",
+        "rarity": 2
+      },
+      {
+        "name": "海兔獸-東海",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "name": "沼澤釣",
+    "image": "images/habitats/189.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ce70cf51a16c795eac21ab4f6fc94be9.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "釣竿",
+        "count": 1
+      },
+      {
+        "name": "泥水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "臭泥",
+        "rarity": 1
+      },
+      {
+        "name": "臭臭泥",
+        "rarity": 2
+      },
+      {
+        "name": "土王",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "name": "溫泉釣",
+    "image": "images/habitats/190.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/0d71df6ba5ff6416366bc9c64908615f.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "釣竿",
+        "count": 1
+      },
+      {
+        "name": "溫泉",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蓮葉童子",
+        "rarity": 1
+      },
+      {
+        "name": "蓮帽小童",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "name": "熔岩釣",
+    "image": "images/habitats/191.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/95448c9f3e4cafaefdf50220c82fe104.jpeg",
+    "materials": [
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "釣竿",
+        "count": 1
+      },
+      {
+        "name": "熔岩",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "風速狗",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "name": "高調的搖滾舞台",
+    "image": "images/habitats/192.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/2ece26b32f5e3efa3553310292a7bffa.jpeg",
+    "materials": [
+      {
+        "name": "音響",
+        "count": 2
+      },
+      {
+        "name": "直立麥克風",
+        "count": 1
+      },
+      {
+        "name": "舞台",
+        "count": 1
+      },
+      {
+        "name": "炫酷電吉他",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "顫弦蠑螈-高調的樣子",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "name": "低調的搖滾舞台",
+    "image": "images/habitats/193.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5354de641c7442e3c08e473c3369f848.jpeg",
+    "materials": [
+      {
+        "name": "音響",
+        "count": 2
+      },
+      {
+        "name": "直立麥克風",
+        "count": 1
+      },
+      {
+        "name": "舞台",
+        "count": 1
+      },
+      {
+        "name": "炫酷電貝斯",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "顫弦蠑螈-低調的樣子",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "name": "怨念騎士的祭壇",
+    "image": "images/habitats/194.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/b99e8c12f8df27b179b0af3d0dd30c97.jpeg",
+    "materials": [
+      {
+        "name": "踏石",
+        "count": 2
+      },
+      {
+        "name": "篝火",
+        "count": 2
+      },
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "詛咒盔甲",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "蒼炎刃鬼",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "name": "忠誠騎士的祭壇",
+    "image": "images/habitats/195.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/50cf603dce323efb656f530004b79c5c.jpeg",
+    "materials": [
+      {
+        "name": "踏石",
+        "count": 2
+      },
+      {
+        "name": "篝火",
+        "count": 2
+      },
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "祝福盔甲",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "紅蓮鎧騎",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "name": "飛翼化石展示台",
+    "image": "images/habitats/196.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/9540f1a22f4fc702709d8d5e5bf4cfac.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "飛翼化石（頭）",
+        "count": 1
+      },
+      {
+        "name": "飛翼化石（左翼）",
+        "count": 1
+      },
+      {
+        "name": "飛翼化石（右翼）",
+        "count": 1
+      },
+      {
+        "name": "飛翼化石（身體）",
+        "count": 1
+      },
+      {
+        "name": "飛翼化石（尾巴）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "化石翼龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "name": "頭蓋化石展示台",
+    "image": "images/habitats/197.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/93a36dce65a7e7f0b5173e153b6e7c74.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "頭蓋化石",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "頭蓋龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "name": "頭槌化石展示台",
+    "image": "images/habitats/198.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/fedd7896adb88baa725857cb8e969739.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "頭槌化石（頭）",
+        "count": 1
+      },
+      {
+        "name": "頭槌化石（身體）",
+        "count": 1
+      },
+      {
+        "name": "頭槌化石（尾巴）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "戰槌龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "name": "&nbsp;盾甲化石展示台",
+    "image": "images/habitats/199.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/db7e69b2e933606b54f6724c6da816e0.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "盾甲化石",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "盾甲龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "name": "&nbsp;護盾化石展示台",
+    "image": "images/habitats/200.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4e0d1fe9126e3c91bf85288e8891a49d.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "護盾化石（頭）",
+        "count": 1
+      },
+      {
+        "name": "護盾化石（身體）",
+        "count": 1
+      },
+      {
+        "name": "護盾化石（尾巴）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "護城龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "name": "顎之化石展示台",
+    "image": "images/habitats/201.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f4f69185500ad22866e8a591aea6f736.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "顎之化石",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "寶寶暴龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "name": "暴君化石展示台",
+    "image": "images/habitats/202.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/861a38f88a2d82415fba5d4c70f0bfcc.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 2
+      },
+      {
+        "name": "暴君化石（頭）",
+        "count": 1
+      },
+      {
+        "name": "暴君化石（身體）",
+        "count": 1
+      },
+      {
+        "name": "暴君化石（尾巴）",
+        "count": 1
+      },
+      {
+        "name": "暴君化石（腳）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "怪顎龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "name": "&nbsp;鰭之化石展示台",
+    "image": "images/habitats/203.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a30116100a76b6ffa5ade2d3e023508e.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "鰭之化石",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "冰雪龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "name": "凍原化石展示台",
+    "image": "images/habitats/204.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/5cfd572610dab3fb10d364427ff835aa.jpeg",
+    "materials": [
+      {
+        "name": "台座、展示台",
+        "count": 1
+      },
+      {
+        "name": "凍原化石（頭）",
+        "count": 1
+      },
+      {
+        "name": "凍原化石（身體）",
+        "count": 1
+      },
+      {
+        "name": "凍原化石（尾巴）",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "冰雪巨龍",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "name": "沁爽清藍",
+    "image": "images/habitats/205.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a71e489b594f7d0fbb708fd22d998f36.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "冰淇淋汽水",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "水伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "name": "麻麻薯餅",
+    "image": "images/habitats/206.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/783a73a04204eef697159d448ec40634.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "炸薯餅",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "雷伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "name": "辣到噴火",
+    "image": "images/habitats/207.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/a7508500d748d90cfd8ccd12277b079d.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "披薩",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "火伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "name": "優雅的午後",
+    "image": "images/habitats/208.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/4305bf9c2ab0fd847eb7dd31b097646f.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "下午茶套組",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "太陽伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "name": "黑色的滋味",
+    "image": "images/habitats/209.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f4c5b81f5e732fdad794247fa9df914b.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "巧克力餅乾",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "月亮伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "name": "綠色三明治",
+    "image": "images/habitats/210.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/d57d94ff241c50cca3a8f5f0cfe9e819.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "三明治",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "葉伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "name": "沁涼刨冰",
+    "image": "images/habitats/211.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/f12a231552837051abfb1a957ddf9981.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "刨冰",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "冰伊布",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "可愛的蛋糕",
+    "image": "images/habitats/212.jpeg",
+    "imageUrl": "https://cdn.kikinote.net/gallery/game/ca314964cab5780facad721e39879c5b.jpeg",
+    "materials": [
+      {
+        "name": "桌子（全部）",
+        "count": 1
+      },
+      {
+        "name": "椅子（全部）",
+        "count": 1
+      },
+      {
+        "name": "緞帶蛋糕",
+        "count": 1
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "仙子伊布",
+        "rarity": 1
+      }
+    ]
+  }
+]
