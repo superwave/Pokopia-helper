@@ -285,7 +285,8 @@ mark {
   .grid:not(.list-view) .pokemon-row { font-size: .78rem; }
 
   /* 列表模式 */
-  .list-img-wrap { width: 140px; }
   .list-item { min-height: 120px; }
+  .list-img-wrap { width: 120px; aspect-ratio: auto; align-self: stretch; }
+  .list-img-wrap img { object-fit: cover; }
   .list-body { padding: .5rem .6rem; }
 }
