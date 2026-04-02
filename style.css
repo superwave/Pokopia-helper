@@ -185,8 +185,8 @@ main { flex: 1; padding: 1.25rem 1.5rem; }
 .list-item:hover { transform: translateY(-2px); box-shadow: 0 4px 14px rgba(0,0,0,.12); }
 
 .list-img-wrap {
-  width: 140px;
-  min-height: 90px;
+  width: 200px;
+  aspect-ratio: 16 / 9;
   flex-shrink: 0;
   background: #eee;
   display: flex;
@@ -197,8 +197,9 @@ main { flex: 1; padding: 1.25rem 1.5rem; }
 .list-img-wrap img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
+  background: #eee;
 }
 .list-img-wrap .no-img {
   font-size: .75rem;
@@ -283,7 +284,8 @@ mark {
   .grid:not(.list-view) .material-tag { font-size: .7rem; padding: .15rem .4rem; }
   .grid:not(.list-view) .pokemon-row { font-size: .78rem; }
 
-  /* 列表模式：縮小圖片 */
-  .list-img-wrap { width: 100px; min-height: 70px; }
+  /* 列表模式 */
+  .list-img-wrap { width: 140px; }
+  .list-item { min-height: 120px; }
   .list-body { padding: .5rem .6rem; }
 }
