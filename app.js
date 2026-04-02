@@ -2,25 +2,13 @@
 
 // ── 狀態 ────────────────────────────────────────────────
 let allHabitats = [];
-let filteredIds = [];     // 目前顯示的 id 清單
+let filteredIds = [];
+let currentView = 'card'; // 'card' | 'list'
 
-// 反向索引（載入後建立）
-const pokemonIndex  = {};  // pokemonName  → [id, ...]
-const materialIndex = {};  // materialName → [id, ...]
-const habitatMap    = {};  // id           → habitat
-
-// localStorage key
-const LS_KEY = 'pokopia_done';
-
-function loadDone() {
-  try { return new Set(JSON.parse(localStorage.getItem(LS_KEY) || '[]')); }
-  catch { return new Set(); }
-}
-function saveDone(set) {
-  localStorage.setItem(LS_KEY, JSON.stringify([...set]));
-}
-
-let doneSet = loadDone();
+// 反向索引
+const pokemonIndex  = {};
+const materialIndex = {};
+const habitatMap    = {};
 
 // ── 索引建立 ─────────────────────────────────────────────
 function buildIndexes(habitats) {
@@ -43,26 +31,20 @@ function search(query) {
   const q = query.toLowerCase();
   const matchSet = new Set();
 
-  // 1. 棲息地名稱（模糊）
   allHabitats.forEach(h => {
     if (h.name.toLowerCase().includes(q)) matchSet.add(h.id);
   });
-
-  // 2. 寶可夢名稱（精確詞頭 + 模糊）
   Object.keys(pokemonIndex).forEach(name => {
     if (name.toLowerCase().includes(q)) {
       pokemonIndex[name].forEach(id => matchSet.add(id));
     }
   });
-
-  // 3. 材料名稱（精確詞頭 + 模糊）
   Object.keys(materialIndex).forEach(name => {
     if (name.toLowerCase().includes(q)) {
       materialIndex[name].forEach(id => matchSet.add(id));
     }
   });
 
-  // 按原始順序排列
   return allHabitats.filter(h => matchSet.has(h.id)).map(h => h.id);
 }
 
@@ -87,8 +69,6 @@ function escRe(s) {
 
 // ── 卡片渲染 ─────────────────────────────────────────────
 function renderCard(h, query) {
-  const done = doneSet.has(h.id);
-
   const matHtml = h.materials.length
     ? h.materials.map(m =>
         `<span class="material-tag">${highlight(m.name, query)} ×${m.count}</span>`
@@ -105,9 +85,7 @@ function renderCard(h, query) {
     : '<span style="color:#aaa;font-size:.8rem">—</span>';
 
   return `
-    <div class="card${done ? ' done' : ''}" data-id="${h.id}">
-      <input class="card-check" type="checkbox" ${done ? 'checked' : ''}
-             title="標記完成" aria-label="標記完成">
+    <div class="card" data-id="${h.id}">
       <div class="card-img-wrap">
         <img src="${h.image}" alt="${escHtml(h.name)}" loading="lazy"
              onerror="this.style.display='none';this.nextElementSibling.hidden=false">
@@ -124,19 +102,61 @@ function renderCard(h, query) {
     </div>`;
 }
 
+// ── 列表渲染 ─────────────────────────────────────────────
+function renderListItem(h, query) {
+  const matHtml = h.materials.length
+    ? h.materials.map(m =>
+        `<span class="material-tag">${highlight(m.name, query)} ×${m.count}</span>`
+      ).join('')
+    : '<span style="color:#aaa;font-size:.8rem">—</span>';
+
+  const pokeHtml = h.pokemon.length
+    ? h.pokemon.map(p =>
+        `<span class="pokemon-inline">${highlight(p.name, query)} ${stars(p.rarity)}</span>`
+      ).join('')
+    : '<span style="color:#aaa;font-size:.8rem">—</span>';
+
+  return `
+    <div class="list-item" data-id="${h.id}">
+      <div class="list-img-wrap">
+        <img src="${h.image}" alt="${escHtml(h.name)}" loading="lazy"
+             onerror="this.style.display='none';this.nextElementSibling.hidden=false">
+        <span class="no-img" hidden>無圖片</span>
+      </div>
+      <div class="list-body">
+        <div class="list-header">
+          <span class="card-id">No.${h.id}</span>
+          <span class="card-name">${highlight(h.name, query)}</span>
+        </div>
+        <div class="list-details">
+          <div class="list-section">
+            <span class="card-section-title">材料</span>
+            <div class="material-list">${matHtml}</div>
+          </div>
+          <div class="list-section">
+            <span class="card-section-title">寶可夢</span>
+            <div class="pokemon-inline-list">${pokeHtml}</div>
+          </div>
+        </div>
+      </div>
+    </div>`;
+}
+
 // ── 渲染格子 ─────────────────────────────────────────────
 function renderGrid() {
-  const query      = document.getElementById('search-input').value.trim();
-  const hideDone   = document.getElementById('hide-done').checked;
-
+  const query = document.getElementById('search-input').value.trim();
   let ids = search(query);
-  if (hideDone) ids = ids.filter(id => !doneSet.has(id));
-
   filteredIds = ids;
 
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty-msg');
   const count = document.getElementById('result-count');
+
+  if (currentView === 'card') {
+    grid.className = 'grid';
+  } else {
+    grid.className = 'grid list-view';
+  }
 
   if (ids.length === 0) {
     grid.innerHTML = '';
@@ -144,35 +164,24 @@ function renderGrid() {
     count.textContent = '0 筆';
   } else {
     empty.hidden = true;
-    grid.innerHTML = ids.map(id => renderCard(habitatMap[id], query)).join('');
+    const renderer = currentView === 'card' ? renderCard : renderListItem;
+    grid.innerHTML = ids.map(id => renderer(habitatMap[id], query)).join('');
     count.textContent = `${ids.length} 筆`;
   }
 }
 
-// ── 事件委派（checkbox） ──────────────────────────────────
-document.getElementById('grid').addEventListener('change', e => {
-  const cb = e.target;
-  if (!cb.classList.contains('card-check')) return;
-  const card = cb.closest('.card');
-  const id = card.dataset.id;
-
-  if (cb.checked) { doneSet.add(id); card.classList.add('done'); }
-  else            { doneSet.delete(id); card.classList.remove('done'); }
-  saveDone(doneSet);
-
-  // 如果「隱藏已完成」開啟，立即重新渲染
-  if (document.getElementById('hide-done').checked) renderGrid();
-});
-
-// ── 工具列事件 ───────────────────────────────────────────
-document.getElementById('search-input').addEventListener('input', renderGrid);
-document.getElementById('hide-done').addEventListener('change', renderGrid);
-document.getElementById('clear-all').addEventListener('click', () => {
-  if (!confirm('確定要清除所有已完成的勾選嗎？')) return;
-  doneSet.clear();
-  saveDone(doneSet);
+// ── 切換檢視模式 ─────────────────────────────────────────
+function setView(view) {
+  currentView = view;
+  document.getElementById('view-card').classList.toggle('active', view === 'card');
+  document.getElementById('view-list').classList.toggle('active', view === 'list');
   renderGrid();
-});
+}
+
+// ── 事件 ─────────────────────────────────────────────────
+document.getElementById('search-input').addEventListener('input', renderGrid);
+document.getElementById('view-card').addEventListener('click', () => setView('card'));
+document.getElementById('view-list').addEventListener('click', () => setView('list'));
 
 // ── 載入資料 ─────────────────────────────────────────────
 fetch('data/habitats.json')

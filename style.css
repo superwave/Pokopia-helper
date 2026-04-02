@@ -4,7 +4,7 @@
 :root {
   --bg: #f5f5f0;
   --card-bg: #fff;
-  --card-done-bg: #e8f5e9;
+
   --accent: #4caf50;
   --accent-dark: #388e3c;
   --text: #333;
@@ -60,31 +60,28 @@ header a { color: #fff; }
 }
 #search-input:focus { border-color: var(--accent); }
 
-.filter-group {
+/* ── View Toggle ── */
+.view-toggle {
   display: flex;
-  align-items: center;
-  gap: 1rem;
+  gap: .25rem;
   flex-shrink: 0;
 }
-.filter-group label {
+.view-btn {
+  width: 36px;
+  height: 36px;
   display: flex;
   align-items: center;
-  gap: .35rem;
-  font-size: .9rem;
-  cursor: pointer;
-}
-.filter-group input[type="checkbox"] { width: 16px; height: 16px; cursor: pointer; }
-
-#clear-all {
-  padding: .45rem .9rem;
-  background: #fff;
+  justify-content: center;
   border: 1.5px solid var(--border);
   border-radius: 8px;
+  background: #fff;
   cursor: pointer;
-  font-size: .85rem;
-  transition: background .2s, border-color .2s;
+  font-size: 1.1rem;
+  color: var(--muted);
+  transition: background .2s, border-color .2s, color .2s;
 }
-#clear-all:hover { background: #fce4ec; border-color: #e57373; }
+.view-btn:hover { border-color: var(--accent); color: var(--accent); }
+.view-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 
 .result-count { font-size: .85rem; color: var(--muted); flex-shrink: 0; }
 
@@ -107,20 +104,6 @@ main { flex: 1; padding: 1.25rem 1.5rem; }
   position: relative;
 }
 .card:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,0,0,.14); }
-.card.done { background: var(--card-done-bg); }
-.card.done .card-img-wrap { opacity: .6; }
-
-/* Checkbox overlay */
-.card-check {
-  position: absolute;
-  top: .6rem;
-  right: .6rem;
-  width: 24px;
-  height: 24px;
-  cursor: pointer;
-  accent-color: var(--accent);
-  z-index: 10;
-}
 
 .card-img-wrap {
   width: 100%;
@@ -185,6 +168,82 @@ main { flex: 1; padding: 1.25rem 1.5rem; }
 .pokemon-name { flex: 1; }
 .stars { color: var(--star-color); letter-spacing: -.05em; }
 
+/* ── List View ── */
+.grid.list-view {
+  grid-template-columns: 1fr;
+  gap: .65rem;
+}
+
+.list-item {
+  display: flex;
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  transition: transform .15s, box-shadow .15s;
+}
+.list-item:hover { transform: translateY(-2px); box-shadow: 0 4px 14px rgba(0,0,0,.12); }
+
+.list-img-wrap {
+  width: 140px;
+  min-height: 90px;
+  flex-shrink: 0;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.list-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.list-img-wrap .no-img {
+  font-size: .75rem;
+  color: var(--muted);
+}
+
+.list-body {
+  flex: 1;
+  padding: .6rem .9rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: .35rem;
+}
+
+.list-header {
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+}
+.list-header .card-name { margin-bottom: 0; }
+
+.list-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.5rem;
+}
+
+.list-section {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+.list-section .card-section-title { margin-bottom: 0; }
+
+.pokemon-inline-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem .6rem;
+}
+.pokemon-inline {
+  font-size: .85rem;
+  white-space: nowrap;
+}
+
 /* ── Empty / Footer ── */
 .empty-msg {
   text-align: center;
@@ -211,6 +270,20 @@ mark {
 /* ── RWD ── */
 @media (max-width: 600px) {
   .toolbar { padding: .75rem 1rem; }
-  main { padding: .9rem 1rem; }
+  main { padding: .9rem .6rem; }
   header h1 { font-size: 1.3rem; }
+
+  /* 卡片模式：手機雙欄 */
+  .grid:not(.list-view) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: .6rem;
+  }
+  .grid:not(.list-view) .card-body { padding: .5rem .6rem .6rem; }
+  .grid:not(.list-view) .card-name { font-size: .88rem; }
+  .grid:not(.list-view) .material-tag { font-size: .7rem; padding: .15rem .4rem; }
+  .grid:not(.list-view) .pokemon-row { font-size: .78rem; }
+
+  /* 列表模式：縮小圖片 */
+  .list-img-wrap { width: 100px; min-height: 70px; }
+  .list-body { padding: .5rem .6rem; }
 }
